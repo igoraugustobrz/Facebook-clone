@@ -1,13 +1,14 @@
 # Clone do Facebook
 <div align="center">
-<img src="src/img/" width="2000px" alt="Imagem do site" title="Imagem do site"/>
+<img src="src/img/site.png" width="2000px" alt="Imagem do site" title="Imagem do site"/>
 </div>
 
 ## Descrição
-Em elaboração...
+
+O Clone do Facebook é uma recriação emocionante e envolvente de uma das maiores plataformas de mídia social do mundo. Desenvolvido com paixão e habilidade, este projeto é uma homenagem ao icônico site que conecta milhões de pessoas ao redor do globo.
 
 ## Status do projeto
-Projeto em andamento.
+Projeto concluído.
 
 ## Pré-requisitos
 
